@@ -12,7 +12,7 @@ st.set_page_config(
 
 # --- Configuration ---
 # SET YOUR CSV FILE PATH HERE
-CSV_PATH = 'dataset/sample_test.csv'
+CSV_PATH = 'dataset/train.csv'
 
 # --- Local Formatting Function ---
 def format_content_locally(text: str) -> str:
